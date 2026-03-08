@@ -49,8 +49,8 @@ header h1 {
 }
 
 header .logo {
-  height: 130px;
-  width: 130px;
+  height: 100px;
+  width: 100px;
   margin-right: 15px;
   background: linear-gradient(135deg, var(--secondary-color), #F5D4DC);
   box-shadow: 0 4px 12px rgba(197, 90, 125, 0.3);
@@ -817,4 +817,5 @@ footer p {
     width: 100%;
     justify-content: center;
   }
+
 }
